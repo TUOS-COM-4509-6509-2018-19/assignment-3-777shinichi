@@ -4,7 +4,7 @@
 
 ### Lecture
 
-The Jupyter Notebook slides for the lecture are [here](s2_objective.ipynb)
+The Jupyter Notebook slides for the lecture are [here](s3_regression.ipynb)
 
 Once you download the file, use the following instruction in your terminal
 
